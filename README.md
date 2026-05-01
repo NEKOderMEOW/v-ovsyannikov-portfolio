@@ -1,2 +1,29 @@
-# v-ovsyannikov-portfolio
-Practical Data Analytics Case Studies &amp; Projects
+# Василий Овсянников | Портфолио аналитика данных
+
+### Добро пожаловать в мой репозиторий! 
+### Здесь я собираю свои проекты и кейсы, в которых решаю бизнес-задачи с помощью анализа данных.
+
+---
+
+## Стек технологий
+* **Базы данных:** SQL (PostgreSQL, MySQL) - оконные функции, сложные JOIN-ы, CTE.
+* **Таблицы:** Google Sheets & Excel - сводные таблицы, Query, VLOOKUP/XLOOKUP, создание дашбордов.
+* **Инструменты:** Python (Pandas, NumPy, Matplotlib, Seaborn), Git.
+
+---
+
+## Навигация по проектам
+
+### Excel & Business Intelligence(./Excel-Dashboards/README.md)
+* [Дашборд по продажам ритейл-сети](./Excel-Dashboards/) - Интерактивный дашборд.
+* [Калькулятор юнит-экономики](./Excel-Dashboards/) - Моделирование стоимости привлечения (CAC) и жизненного цикла клиента (LTV).
+
+### SQL Аналитика
+* [Анализ данных игровой индустрии](./SQL-Analysis/) - Расчет метрик DAU/WAU/MAU и коэффициента удержания (Retention) для игрового приложения.
+* [Транзакции E-commerce](./SQL-Analysis/) — Выявление топ-категорий товаров и сезонных трендов.
+
+---
+
+## Контакты
+* **Telegram:** [@I_dream_fighter_I](https://t.me/I_dream_fighter_I)
+* **Резюме:** [на hh.ru](https://tomsk.hh.ru/resume/83b4024aff0fae9c570039ed1f31457a4a7945)
