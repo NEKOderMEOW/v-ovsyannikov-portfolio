@@ -2,21 +2,22 @@
 
 ### Добро пожаловать в мой репозиторий! 
 ### Здесь я собираю свои проекты и кейсы, в которых решаю бизнес-задачи с помощью анализа данных.
+### Есть возможность скачать как все проекты разом через GitHub, так и каждый по отдельности через ссылку на Google Диск. Для второго варианта воспользуйтесь Навигацией по проектам.
 
 ---
 
 ## Стек технологий
 * **Базы данных:** SQL (PostgreSQL, MySQL) - оконные функции, сложные JOIN-ы, CTE.
 * **Таблицы:** Google Sheets & Excel - сводные таблицы, Query, VLOOKUP/XLOOKUP, создание дашбордов.
-* **Инструменты:** Python (Pandas, NumPy, Matplotlib, Seaborn), Git.
+* **Инструменты:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Git.
 
 ---
 
 ## Навигация по проектам
 
-### Excel & Business Intelligence(./Excel-Dashboards/README.md)
-* [Дашборд по продажам ритейл-сети](./Excel-Dashboards/) - Интерактивный дашборд.
-* [Калькулятор юнит-экономики](./Excel-Dashboards/) - Моделирование стоимости привлечения (CAC) и жизненного цикла клиента (LTV).
+### Excel & Business Intelligence
+* [Дашборд по продажам ритейл-сети](https://docs.google.com/spreadsheets/d/1YVM2bQCup66ZKZuBAKHN9CXJVRyjQsSUBMv6nFRDN4w/edit?usp=sharing)
+* [Калькулятор затрат на сервера](https://docs.google.com/spreadsheets/d/1Ugq-dJwghp1X7ySnUYo2YIgUc2Xe1E4Wox-8xBK7mYM/edit?usp=sharing)
 
 ### SQL Аналитика
 * [Анализ данных игровой индустрии](./SQL-Analysis/) - Расчет метрик DAU/WAU/MAU и коэффициента удержания (Retention) для игрового приложения.
