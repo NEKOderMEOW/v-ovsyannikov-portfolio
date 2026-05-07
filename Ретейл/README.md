@@ -42,7 +42,7 @@
 ---
 
 ### Файлы и материалы
-* **Презентация результатов:** [Скачать в PPTX](https://docs.google.com/presentation/d/1iY146dJpi-KyNVKGmeHSyxf07_yASqGu/export) - ключевые выводы для руководства.
+* **Презентация результатов:** [Скачать в PPTX](https://docs.google.com/presentation/d/1iY146dJpi-KyNVKGmeHSyxf07_yASqGu/export/pptx) - ключевые выводы для руководства.
 * **Интерактивный дашборд:** [Открыть в Google Sheets](https://docs.google.com/spreadsheets/d/1YVM2bQCup66ZKZuBAKHN9CXJVRyjQsSUBMv6nFRDN4w/edit?usp=sharing).
 * **Калькулятор затрат:** [Открыть в Google Sheets](https://docs.google.com/spreadsheets/d/1Ugq-dJwghp1X7ySnUYo2YIgUc2Xe1E4Wox-8xBK7mYM/edit?usp=sharing).
 * **Расчетные файлы (Excel):**
