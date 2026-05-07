@@ -45,6 +45,6 @@
 * **Презентация результатов:** [Скачать в PPTX](https://docs.google.com/presentation/d/1iY146dJpi-KyNVKGmeHSyxf07_yASqGu/export/pptx) - ключевые выводы для руководства.
 * **Интерактивный дашборд:** [Открыть в Google Sheets](https://docs.google.com/spreadsheets/d/1YVM2bQCup66ZKZuBAKHN9CXJVRyjQsSUBMv6nFRDN4w/edit?usp=sharing).
 * **Калькулятор затрат:** [Открыть в Google Sheets](https://docs.google.com/spreadsheets/d/1Ugq-dJwghp1X7ySnUYo2YIgUc2Xe1E4Wox-8xBK7mYM/edit?usp=sharing).
-* **Расчетные файлы (Excel):**
-  * [Анализ_1_по_4_сентября.xlsx](https://docs.google.com/spreadsheets/d/1tRuoqWqZPu0k-VEr5PauAyQV3_3tnB5_/export)
-  * [Анализ_5_по_7_сентября.xlsx](https://docs.google.com/spreadsheets/d/1kOSa5MnbyRzsxzujmVDC6dX_YqcE8GkZ/export)
+* **Расчетные файлы (скачать в XLSX):**
+  * [Анализ_1_по_4_сентября.xlsx](https://docs.google.com/spreadsheets/d/1tRuoqWqZPu0k-VEr5PauAyQV3_3tnB5_/export/xlsx)
+  * [Анализ_5_по_7_сентября.xlsx](https://docs.google.com/spreadsheets/d/1kOSa5MnbyRzsxzujmVDC6dX_YqcE8GkZ/export/xlsx)
