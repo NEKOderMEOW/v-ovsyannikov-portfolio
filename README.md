@@ -27,4 +27,4 @@
 
 ## Контакты
 * **Telegram:** [@I_dream_fighter_I](https://t.me/I_dream_fighter_I)
-* **Резюме:** [на hh.ru](https://tomsk.hh.ru/resume/83b4024aff0fae9c570039ed1f31457a4a7945)
+* **Резюме:** [на hh.ru](https://tomsk.hh.ru/resume/1c62af17ff1079dbf90039ed1f4845374d6130)
